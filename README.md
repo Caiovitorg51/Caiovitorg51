@@ -1,6 +1,5 @@
 Olá! Eu sou Caio Vitor 👋
 
-[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caio.vitorg51.treeguard@gmail.com)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-563611205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5wbbyCMESGiGVDGZuUGomA%3D%3D)
 
 Sou um desenvolvedor aficionado por tecnologia e programação. Tenho experiência em várias linguagens e frameworks, e adoro aprender e explorar novas ferramentas para resolver problemas complexos. Abaixo estão algumas das tecnologias com as quais eu trabalho:
