@@ -12,7 +12,7 @@ Tecnologias e Ferramentas que trabalho:
 
 Sobre Mim
 
-🔭 Atualmente estou trabalhando em um projeto de desenvolvimento mobile e n automação de uma ferramenta de coleta de dados em nuvem.
+🔭 Atualmente estou trabalhando em um projeto de desenvolvimento mobile e na automação de uma ferramenta de coleta de dados em nuvem.
 
 🌱 Estou aprendendo análise de dados com python e suas tecnologias e também estrutura de redes.
 
