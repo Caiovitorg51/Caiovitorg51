@@ -14,7 +14,7 @@ Sobre Mim
 
 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento mobile e n automação de uma ferramenta de coleta de dados em nuvem.
 
-🌱 Estou aprendendo [tecnologia ou conceito que está aprendendo atualmente].
+🌱 Estou aprendendo análise de dados com python e suas tecnologias e também estrutura de redes.
 
 👨‍💻 possuo experiência em: desenvolvimento full stack web e mobile / analise de banco de dados.
 
