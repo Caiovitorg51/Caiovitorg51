@@ -19,4 +19,6 @@ Sobre Mim
 
 👨‍💻 possuo experiência em: desenvolvimento full stack web e mobile / analise de banco de dados.
 
+📫 Como me encontrar: caio.vitorg51.treeguard@gmail.com.
+
 ⚡ Curiosidade: [alguma curiosidade divertida sobre você].
