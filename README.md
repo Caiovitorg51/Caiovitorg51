@@ -95,5 +95,3 @@ Me destaco por minha proatividade, organização e capacidade de trabalhar em eq
 
 Seja bem-vindo ao meu repositório! Estou sempre aberto a colaborações e projetos desafiadores.  
 Vamos construir soluções juntos! 🚀
-
-![Caiovitorg51 GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiovitorg51&show_icons=true&theme=radical)
