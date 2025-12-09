@@ -72,6 +72,12 @@ Meu código é **testável, modular e bem documentado**, sempre pensando em manu
 
 ---
 
+## 📊 GitHub Stats (usando script próprio)
+
+![GitHub Stats](./stats.png)
+
+---
+
 > **"Arquitetura de software é fazer as coisas que são difíceis de mudar, fáceis de mudar."**  
 > *Foco em construir bases sólidas que permitam evolução constante.*
 
