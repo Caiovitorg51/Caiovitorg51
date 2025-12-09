@@ -1,102 +1,90 @@
-
 # 👨‍💻 Caio DEV
 
-🎯 **Desenvolvedor Fullstack | Engenheiro de Software em formação**  
-💬 Buscando sempre **soluções eficientes, escaláveis e de alta qualidade**  
-📍 Fortaleza – CE | 📅 14/12/2000  
-📧 caio.vitorg51.treeguard@gmail.com | 📱 +55 (85) 9 9906-4584  
+**Desenvolvedor Back-end | Engenheiro de Software**  
+Foco em sistemas escaláveis, arquitetura limpa e soluções de alta performance.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Vitor%20Montenegro-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/caio-vitor-montenegro-563611205)
-
----
-
-## 💼 Objetivo
-
-Atuar como **Desenvolvedor de Software** ou **Engenheiro de Software**, contribuindo com projetos modernos, bem estruturados e com impacto real.
+📍 Fortaleza – CE | 📧 caio.vitorg51.treeguard@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/caio-vitor-montenegro-563611205)
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 O que faço
 
-Sou um desenvolvedor fullstack apaixonado por tecnologia, com maior domínio em back-end e forte base em **engenharia de software**, **padrões de projeto**, **clean code** e **desempenho**.  
-Atuo com foco em **sistemas web e mobile**, participando de projetos acadêmicos, laboratórios de pesquisa e empresas juniores.  
-Me destaco por minha proatividade, organização e capacidade de trabalhar em equipe com metodologias ágeis (Scrum).
+Desenvolvo **sistemas back-end robustos** com foco em performance, escalabilidade e boas práticas de engenharia de software. Trabalho principalmente com:
 
----
+- **APIs RESTful** e arquiteturas de microserviços
+- **Sistemas distribuídos** com comunicação assíncrona
+- **Bancos de dados relacionais e NoSQL**
+- **Automação e otimização** de fluxos de dados
+- **Padrões de projeto** e clean architecture
 
-## 🧰 Tech Stack
-
-**Linguagens:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**Front-end:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-
-**Back-end:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-
-**Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-**Outros:** Git, GitHub, SCRUM, Clean Code, Design Patterns
+Meu código é **testável, modular e bem documentado**, sempre pensando em manutenibilidade e evolução do sistema.
 
 ---
 
-## 🧪 Experiência
+## 🛠️ Stack Principal
 
-**📱 PET Computação – UECE**  
-*Desenvolvedor Back-end Mobile (2024)*  
-`Node.js | Express | Next.js | MongoDB`  
-- Back-end de app para gerenciamento de pequenos negócios  
-- Modelagem e manutenção de banco de dados
+### **Back-end**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**🔐 LARCES – UECE (Laboratório de Redes e Segurança)**  
-*Desenvolvedor Back-end*  
-- Scripts de automação para coleta e tratamento de dados  
-- Otimização de banco de dados
+### **Infra & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**🌐 C2A – Empresa de Desenvolvimento**  
-*Trainee Front-end Web*  
-`React | TypeScript | HTML | CSS`  
-- Interfaces web modernas e responsivas  
-- Integração com equipe e versionamento
-
-**👨‍💼 AcensJr – Empresa Júnior de Computação**  
-*Trainee Fullstack Web*  
-- Desenvolvimento fullstack com práticas ágeis  
-- Participação em entregas colaborativas de software
+### **Front-end & Outros**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
-## 🎓 Formação Acadêmica
+## 💡 Projetos & Capacidades
 
-**Bacharelado em Ciência da Computação – UECE**  
-📍 Fortaleza – CE | 7° Semestre
+### **Sistemas Back-end Completos**
+- Desenvolvimento de APIs com **Spring Boot** e **Java**
+- Arquitetura de microserviços com comunicação REST/gRPC
+- Sistemas com autenticação/autorização (JWT, OAuth2)
+- Integração com múltiplos bancos de dados
+
+### **Engenharia de Software**
+- Aplicação de padrões de projeto (Strategy, Factory, Observer, etc.)
+- Princípios SOLID e Clean Architecture
+- Testes unitários e de integração
+- Documentação técnica (Swagger/OpenAPI)
+
+### **DevOps & Contêinerização**
+- Dockerização de aplicações
+- Orquestração de containers
+- CI/CD pipelines
+- Monitoramento e logging
+
+### **Soluções de Dados**
+- Modelagem de bancos relacionais e NoSQL
+- Otimização de queries e performance
+- Processamento assíncrono de dados
+- Scripts de automação em Python
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📈 Estatísticas
 
-**🔄 Quiz de Processos Concorrentes**  
-*Python, multithread, semáforos e barreiras*  
-> Simulação de múltiplos processos concorrentes disputando em um jogo de perguntas e respostas.
+<div align="center">
 
-**🧱 Jogo Educativo: Engenharia de Software com Godot**  
-*Godot Engine + C#*  
-> Jogo interativo para ensino de padrões de projeto e conceitos de engenharia de software.
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiovitorg51&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css)
 
-**☕ Sistema de Gerência de Cafeteria**  
-*Java + Spring Boot + MySQL*  
-> Sistema completo com autenticação, controle de pedidos, padrões de projeto (Decorator, Strategy, Factory, Command, DAO, BO...).
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Caiovitorg51&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-**📄 Sites Estáticos com React e Node**  
-> Sites para exibição de dados, ferramentas simples de cálculo e pesquisa.
+</div>
 
 ---
 
-Seja bem-vindo ao meu repositório!
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiovitorg51&layout=compact&theme=radical)
----
-![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caiovitorg51&show_icons=true&theme=radical)
+> **"Arquitetura de software é fazer as coisas que são difíceis de mudar, fáceis de mudar."**  
+> *Foco em construir bases sólidas que permitam evolução constante.*
 
-
+🔗 **Disponível para projetos desafiadores e colaborações técnicas**
