@@ -72,18 +72,6 @@ Meu código é **testável, modular e bem documentado**, sempre pensando em manu
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiovitorg51&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Caiovitorg51&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 > **"Arquitetura de software é fazer as coisas que são difíceis de mudar, fáceis de mudar."**  
 > *Foco em construir bases sólidas que permitam evolução constante.*
 
